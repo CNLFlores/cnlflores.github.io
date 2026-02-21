@@ -24,7 +24,7 @@ toc: true
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-      <p><strong>Tesoureiro</strong>:<br/>Dora Nicolau<br/>&nbsp;</p>
+      <p><strong>Tesoureiro</strong>:<br/>Dora Nicolau</p>
     </td>
     <td style="vertical-align: bottom">
       <p><strong>Secretária</strong>:<br/>Cátia Lourenço</p>
@@ -50,7 +50,7 @@ toc: true
 <table>
   <tr>
     <td style="vertical-align: bottom; width: 50%;">
-      <p><strong>Presidente</strong>:<br/>José Serafim Freitas<br/>&nbsp;</p>
+      <p><strong>Presidente</strong>:<br/>José Serafim Freitas</p>
     </td>
     <td style="vertical-align: bottom; width: 50%;">
       <a href="/assets/images/manuel.jpg"><img src="/assets/images/manuel.jpg"></a>
@@ -59,7 +59,7 @@ toc: true
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-      <p><strong>Vogal</strong>:<br/>Manuel José Gomes<br/>&nbsp;</p>
+      <p><strong>Vogal</strong>:<br/>Manuel José Gomes</p>
     </td>
   </tr>
 </table>
