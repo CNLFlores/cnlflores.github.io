@@ -11,3 +11,6 @@ header:
 ---
 
 Relatórios de Gestão do Clube Naval das Lajes das Flores  
+
+- [Relatório 1](assets/relatorios/relatorio-teste.pdf)
+- Relatório 2
