@@ -27,13 +27,11 @@ toc: true
       <p><strong>Tesoureiro</strong>:<br/>Dora Nicolau<br/>&nbsp;</p>
     </td>
     <td style="vertical-align: bottom">
-      <!--<a href="/assets/images/marta.jpg"><img src="/assets/images/marta.jpg"></a>-->
       <p><strong>Secretária</strong>:<br/>Cátia Lourenço</p>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-      <!--<a href="/assets/images/manuel.jpg"><img src="/assets/images/manuel.jpg"></a>-->
       <p><strong>Vogal</strong>:<br/>Luís Carlos Serpa</p>
     </td>
     <td style="vertical-align: bottom">
@@ -55,6 +53,7 @@ toc: true
       <p><strong>Presidente</strong>:<br/>José Serafim Freitas<br/>&nbsp;</p>
     </td>
     <td style="vertical-align: bottom; width: 50%;">
+      <a href="/assets/images/manuel.jpg"><img src="/assets/images/manuel.jpg"></a>
       <p><strong>Vogal</strong>:<br/>Manuel Menezes da Sequeira</p>
     </td>
   </tr>
