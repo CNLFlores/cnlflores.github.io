@@ -61,6 +61,4 @@ A frota do clube compõe-se de:
 
 Actualmente desta embarcações não estão operacionais, mas há um plano de recuperação e retoma da instrução de vela, com vista à participação nas futuras competições regionais.
 
-Teste
-
 {% include gallery id="gallery_boats" class="full" layout="" caption="Prática de vela ligeira." %}
