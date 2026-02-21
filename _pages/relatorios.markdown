@@ -14,3 +14,5 @@ Relatórios de Gestão do Clube Naval das Lajes das Flores
 
 - [Relatório 1](/assets/relatorios/relatorio-teste.pdf)
 - Relatório 2
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRGs_QXR5poKac8awb3oR1zGyiNB7Y3uWRd3OXnN1r8h5S9pXHvOUk08rdP945C3YuBTdM8vKSBoDo9/pub?embedded=true"></iframe>
