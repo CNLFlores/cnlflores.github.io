@@ -19,7 +19,7 @@ toc: true
       <p><strong>Presidente</strong>:<br/>Jorge Ventura<br/><a href="https://www.facebook.com/jorge.ventura.98" target="_blank">F<span class="fab fa-fw fa-facebook"></span></a></p>
     </td>
     <td style="vertical-align: bottom; width: 50%;">
-      <p><strong>Vice-Presidente</strong>:<br/>Rubélio Paulo Maciel<br/><a href="https://www.facebook.com/profile.php?id=100006167057160" target="_blank"><span class="fab fa-fw fa-facebook"></span></a></p>
+      <p><strong>Vice-Presidente</strong>:<br/>Gil Duarte<br/></p>
     </td>
   </tr>
   <tr>
