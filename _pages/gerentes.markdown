@@ -62,9 +62,12 @@ toc: true
       <p><strong>Presidente</strong>:<br/>José Serafim Freitas</p>
     </td>
     <td style="vertical-align: bottom; width: 50%;">
-      <a href="/assets/images/manuel.jpg"><img src="/assets/images/manuel.jpg"></a>
-      <p><strong>Vogal</strong>:<br/>Manuel Menezes da Sequeira</p>
-    </td>
+  <a href="/assets/images/corpos_gerentes_2026/manuel.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/manuel.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Vogal</strong>:<br />Manuel Menezes da Sequeira</p>
+</td>
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
@@ -78,13 +81,23 @@ toc: true
 <table>
   <tr>
     <td style="vertical-align: bottom; width: 50%;">
-      <a href="/assets/images/felix.jpg"><img src="/assets/images/felix.jpg"></a>
-      <p><strong>Presidente</strong>:<br/>Félix Martins<br/>&nbsp;</p>
-    </td>
+  <a href="/assets/images/corpos_gerentes_2026/felix.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/felix.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Presidente</strong>:<br />Félix Martins</p>
+</td>
     <td style="vertical-align: bottom; width: 50%;">
-      <a href="/assets/images/andrerodas.jpg"><img src="/assets/images/andrerodas.jpg"></a>
-      <p><strong>Vogal</strong>:<br/>André Rodas<br/><a href="https://www.facebook.com/profile.php?id=100012364506863" target="_blank"><span class="fab fa-fw fa-facebook"></span></a></p>
-    </td>
+  <a href="/assets/images/corpos_gerentes_2026/andrerodas.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/andrerodas.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Vogal</strong>:<br />André Rodas<br />
+    <a href="https://www.facebook.com/profile.php?id=100012364506863" target="_blank">
+      <span class="fab fa-fw fa-facebook"></span>
+    </a>
+  </p>
+</td>
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
