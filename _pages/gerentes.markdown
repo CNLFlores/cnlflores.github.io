@@ -15,9 +15,16 @@ toc: true
 <table>
   <tr>
     <td style="vertical-align: bottom; width: 50%;">
-      <a href="/assets/images/jorge.jpg"><img src="/assets/images/jorge.jpg"></a>
-      <p><strong>Presidente</strong>:<br/>Jorge Ventura<br/><a href="https://www.facebook.com/jorge.ventura.98" target="_blank"><span class="fab fa-fw fa-facebook"></span></a></p>
-    </td>
+  <a href="/assets/images/corpos_gerentes_2026/jorge.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/jorge.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Presidente</strong>:<br />Jorge Ventura<br />
+    <a href="https://www.facebook.com/jorge.ventura.98" target="_blank">
+      <span class="fab fa-fw fa-facebook"></span>
+    </a>
+  </p>
+</td>
     <td style="vertical-align: bottom; width: 50%;">
       <p><strong>Vice-Presidente</strong>:<br/>Gil Duarte<br/></p>
     </td>
