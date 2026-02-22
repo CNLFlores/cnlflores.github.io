@@ -27,7 +27,9 @@ toc: true
       <p><strong>Tesoureiro</strong>:<br/>Dora Nicolau</p>
     </td>
     <td style="vertical-align: bottom">
-      <p><strong>Secretária</strong>:<br/>Cátia Lourenço</p>
+     <a href="/assets/images/corpos_gerentes_2026/catia.jpeg"><img src="/assets/images/corpos_gerentes_2026/catia.jpeg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" /></a>
+      <p><strong>Secretária</strong>:<br />Cátia Lourenço</p>
     </td>
   </tr>
   <tr>
