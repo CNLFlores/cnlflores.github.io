@@ -30,7 +30,7 @@ toc: true
          style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
   </a>
   <p><strong>Vice-Presidente</strong>:<br />Gil Duarte</p>
-</td>
+  </td>
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
