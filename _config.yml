@@ -39,7 +39,7 @@ plugins:
   - jekyll-sitemap
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "air"
 locale: "pt-PT"
 title_separator: "|"
 url: "https://cnlf.pt"
@@ -56,7 +56,7 @@ comments:
   facebook:
     appid: # optional
     num_posts: 5 # 5 (default)
-    colorscheme: "dark" # "light" (default), "dark"
+    colorscheme: "light" 
 
 defaults:
   # _posts
