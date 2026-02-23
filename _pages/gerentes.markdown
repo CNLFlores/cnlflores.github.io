@@ -10,130 +10,100 @@ header:
 toc: true
 ---
 
-## Direcção
+<h2>Direção</h2>
 
-<table>
-  <tr>
-    <td style="vertical-align: bottom; width: 50%;">
-  <a href="/assets/images/corpos_gerentes_2026/jorge.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/jorge.jpg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Presidente</strong>:<br />Jorge Ventura<br />
-    <a href="https://www.facebook.com/jorge.ventura.98" target="_blank">
-      <span class="fab fa-fw fa-facebook"></span>
-    </a>
-  </p>
-    </td>
-      <td style="vertical-align: bottom; width: 50%;">
-  <a href="/assets/images/corpos_gerentes_2026/gil.jpeg">
-    <img src="/assets/images/corpos_gerentes_2026/gil.jpeg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Vice-Presidente</strong>:<br />Gil Duarte</p>
-  </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: bottom;">
-  <a href="/assets/images/corpos_gerentes_2026/dora.jpeg">
-    <img src="/assets/images/corpos_gerentes_2026/dora.jpeg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Tesoureira</strong>:<br />Dora Nicolau</p>
-</td>
-    <td style="vertical-align: bottom">
-     <a href="/assets/images/corpos_gerentes_2026/catia.jpeg"><img src="/assets/images/corpos_gerentes_2026/catia.jpeg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" /></a>
-      <p><strong>Secretária</strong>:<br />Cátia Lourenço</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: bottom;">
-  <a href="/assets/images/corpos_gerentes_2026/luis.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/luis.jpg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Vogal</strong>:<br />Luís Carlos Serpa</p>
-</td>
-    <td style="vertical-align: bottom;">
-  <a href="/assets/images/corpos_gerentes_2026/miguel.jpeg">
-    <img src="/assets/images/corpos_gerentes_2026/miguel.jpeg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Vogal</strong>:<br />Miguel Maciel</p>
-</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: bottom;">
-  <a href="/assets/images/corpos_gerentes_2026/jaen.jpeg">
-    <img src="/assets/images/corpos_gerentes_2026/jaen.jpeg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Vogal</strong>:<br />Jaen Neto Amat</p>
-</td>
-  </tr>
-</table>
+<div class="gerentes-grid">
 
-## Mesa da Assembleia Geral
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/jorge.jpg" alt="Jorge Ventura">
+    <h3>Jorge Ventura</h3>
+    <p class="cargo">Presidente</p>
+  </div>
 
-<table>
-  <tr>
-    <td style="vertical-align: bottom; width: 50%;">
-  <a href="/assets/images/corpos_gerentes_2026/serafim.jpeg">
-    <img src="/assets/images/corpos_gerentes_2026/serafim.jpeg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Presidente</strong>:<br />José Serafim Freitas</p>
-</td>
-    <td style="vertical-align: bottom; width: 50%;">
-  <a href="/assets/images/corpos_gerentes_2026/manuel.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/manuel.jpg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Vogal</strong>:<br />Manuel Menezes da Sequeira</p>
-</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: bottom;">
-  <a href="/assets/images/corpos_gerentes_2026/manueljose.jpeg">
-    <img src="/assets/images/corpos_gerentes_2026/manueljose.jpeg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Vogal</strong>:<br />Manuel José Gomes</p>
-</td>
-  </tr>
-</table>
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/gil.jpeg" alt="Gil Duarte">
+    <h3>Gil Duarte</h3>
+    <p class="cargo">Vice-Presidente</p>
+  </div>
 
-## Conselho Fiscal
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/dora.jpeg" alt="Dora Nicolau">
+    <h3>Dora Nicolau</h3>
+    <p class="cargo">Tesoureira</p>
+  </div>
 
-<table>
-  <tr>
-    <td style="vertical-align: bottom; width: 50%;">
-  <a href="/assets/images/corpos_gerentes_2026/felix.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/felix.jpg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Presidente</strong>:<br />Félix Martins</p>
-</td>
-    <td style="vertical-align: bottom; width: 50%;">
-  <a href="/assets/images/corpos_gerentes_2026/andrerodas.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/andrerodas.jpg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Vogal</strong>:<br />André Rodas<br />
-    <a href="https://www.facebook.com/profile.php?id=100012364506863" target="_blank">
-      <span class="fab fa-fw fa-facebook"></span>
-    </a>
-  </p>
-</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: bottom;">
-  <a href="/assets/images/corpos_gerentes_2026/jose.jpeg">
-    <img src="/assets/images/corpos_gerentes_2026/jose.jpeg"
-         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
-  </a>
-  <p><strong>Vogal</strong>:<br />José Machado</p>
-</td>
-  </tr>
-</table>
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/catia.jpeg" alt="Cátia Lourenço">
+    <h3>Cátia Lourenço</h3>
+    <p class="cargo">Secretária</p>
+  </div>
+
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/luis.jpg" alt="Luís Serpa">
+    <h3>Luís Carlos Serpa</h3>
+    <p class="cargo">Vogal</p>
+  </div>
+
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/miguel.jpeg" alt="Miguel Maciel">
+    <h3>Miguel Maciel</h3>
+    <p class="cargo">Vogal</p>
+  </div>
+
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/jaen.jpeg" alt="Jaen Neto Amat">
+    <h3>Jaen Neto Amat</h3>
+    <p class="cargo">Vogal</p>
+  </div>
+
+</div>
+
+
+<h2>Mesa da Assembleia Geral</h2>
+
+<div class="gerentes-grid">
+
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/serafim.jpeg" alt="José Serafim Freitas">
+    <h3>José Serafim Freitas</h3>
+    <p class="cargo">Presidente</p>
+  </div>
+
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/manuel.jpg" alt="Manuel Menezes">
+    <h3>Manuel Menezes da Sequeira</h3>
+    <p class="cargo">Vogal</p>
+  </div>
+
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/manueljose.jpeg" alt="Manuel José Gomes">
+    <h3>Manuel José Gomes</h3>
+    <p class="cargo">Vogal</p>
+  </div>
+
+</div>
+
+
+<h2>Conselho Fiscal</h2>
+
+<div class="gerentes-grid">
+
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/felix.jpg" alt="Félix Martins">
+    <h3>Félix Martins</h3>
+    <p class="cargo">Presidente</p>
+  </div>
+
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/andrerodas.jpg" alt="André Rodas">
+    <h3>André Rodas</h3>
+    <p class="cargo">Vogal</p>
+  </div>
+
+  <div class="gerente-card">
+    <img src="/assets/images/corpos_gerentes_2026/jose.jpeg" alt="José Machado">
+    <h3>José Machado</h3>
+    <p class="cargo">Vogal</p>
+  </div>
+
+</div>
