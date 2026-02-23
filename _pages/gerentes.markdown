@@ -26,8 +26,8 @@ toc: true
   </p>
     </td>
       <td style="vertical-align: bottom; width: 50%;">
-  <a href="/assets/images/corpos_gerentes_2026/gil.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/gil.jpg"
+  <a href="/assets/images/corpos_gerentes_2026/gil.jpeg">
+    <img src="/assets/images/corpos_gerentes_2026/gil.jpeg"
          style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
   </a>
   <p><strong>Vice-Presidente</strong>:<br />Gil Duarte</p>
@@ -35,8 +35,8 @@ toc: true
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-  <a href="/assets/images/corpos_gerentes_2026/dora.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/dora.jpg"
+  <a href="/assets/images/corpos_gerentes_2026/dora.jpeg">
+    <img src="/assets/images/corpos_gerentes_2026/dora.jpeg"
          style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
   </a>
   <p><strong>Tesoureira</strong>:<br />Dora Nicolau</p>
@@ -56,8 +56,8 @@ toc: true
   <p><strong>Vogal</strong>:<br />Luís Carlos Serpa</p>
 </td>
     <td style="vertical-align: bottom;">
-  <a href="/assets/images/corpos_gerentes_2026/miguel.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/miguel.jpg"
+  <a href="/assets/images/corpos_gerentes_2026/miguel.jpeg">
+    <img src="/assets/images/corpos_gerentes_2026/miguel.jpeg"
          style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
   </a>
   <p><strong>Vogal</strong>:<br />Miguel Maciel</p>
@@ -65,8 +65,8 @@ toc: true
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-  <a href="/assets/images/corpos_gerentes_2026/jaen.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/jaen.jpg"
+  <a href="/assets/images/corpos_gerentes_2026/jaen.jpeg">
+    <img src="/assets/images/corpos_gerentes_2026/jaen.jpeg"
          style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
   </a>
   <p><strong>Vogal</strong>:<br />Jaen Neto Amat</p>
@@ -79,8 +79,8 @@ toc: true
 <table>
   <tr>
     <td style="vertical-align: bottom; width: 50%;">
-  <a href="/assets/images/corpos_gerentes_2026/serafim.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/serafim.jpg"
+  <a href="/assets/images/corpos_gerentes_2026/serafim.jpeg">
+    <img src="/assets/images/corpos_gerentes_2026/serafim.jpeg"
          style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
   </a>
   <p><strong>Presidente</strong>:<br />José Serafim Freitas</p>
@@ -95,8 +95,8 @@ toc: true
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-  <a href="/assets/images/corpos_gerentes_2026/manueljose.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/manueljose.jpg"
+  <a href="/assets/images/corpos_gerentes_2026/manueljose.jpeg">
+    <img src="/assets/images/corpos_gerentes_2026/manueljose.jpeg"
          style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
   </a>
   <p><strong>Vogal</strong>:<br />Manuel José Gomes</p>
@@ -129,8 +129,8 @@ toc: true
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-  <a href="/assets/images/corpos_gerentes_2026/jose.jpg">
-    <img src="/assets/images/corpos_gerentes_2026/jose.jpg"
+  <a href="/assets/images/corpos_gerentes_2026/jose.jpeg">
+    <img src="/assets/images/corpos_gerentes_2026/jose.jpeg"
          style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
   </a>
   <p><strong>Vogal</strong>:<br />José Machado</p>
