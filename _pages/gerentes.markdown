@@ -24,15 +24,22 @@ toc: true
       <span class="fab fa-fw fa-facebook"></span>
     </a>
   </p>
+      <td style="vertical-align: bottom; width: 50%;">
+  <a href="/assets/images/corpos_gerentes_2026/gil.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/gil.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Vice-Presidente</strong>:<br />Gil Duarte</p>
 </td>
-    <td style="vertical-align: bottom; width: 50%;">
-      <p><strong>Vice-Presidente</strong>:<br/>Gil Duarte<br/></p>
-    </td>
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-      <p><strong>Tesoureiro</strong>:<br/>Dora Nicolau</p>
-    </td>
+  <a href="/assets/images/corpos_gerentes_2026/dora.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/dora.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Tesoureira</strong>:<br />Dora Nicolau</p>
+</td>
     <td style="vertical-align: bottom">
      <a href="/assets/images/corpos_gerentes_2026/catia.jpeg"><img src="/assets/images/corpos_gerentes_2026/catia.jpeg"
          style="width:200px; height:200px; object-fit:cover; border-radius:50%;" /></a>
@@ -41,16 +48,28 @@ toc: true
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-      <p><strong>Vogal</strong>:<br/>Luís Carlos Serpa</p>
-    </td>
-    <td style="vertical-align: bottom">
-      <p><strong>Vogal</strong>:<br/>Miguel Maciel</p>
-    </td>
+  <a href="/assets/images/corpos_gerentes_2026/luis.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/luis.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Vogal</strong>:<br />Luís Carlos Serpa</p>
+</td>
+    <td style="vertical-align: bottom;">
+  <a href="/assets/images/corpos_gerentes_2026/miguel.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/miguel.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Vogal</strong>:<br />Miguel Maciel</p>
+</td>
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-      <p><strong>Vogal</strong>:<br/>Jaen Neto Amat</p>
-    </td>
+  <a href="/assets/images/corpos_gerentes_2026/jaen.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/jaen.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Vogal</strong>:<br />Jaen Neto Amat</p>
+</td>
   </tr>
 </table>
 
@@ -59,8 +78,12 @@ toc: true
 <table>
   <tr>
     <td style="vertical-align: bottom; width: 50%;">
-      <p><strong>Presidente</strong>:<br/>José Serafim Freitas</p>
-    </td>
+  <a href="/assets/images/corpos_gerentes_2026/serafim.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/serafim.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Presidente</strong>:<br />José Serafim Freitas</p>
+</td>
     <td style="vertical-align: bottom; width: 50%;">
   <a href="/assets/images/corpos_gerentes_2026/manuel.jpg">
     <img src="/assets/images/corpos_gerentes_2026/manuel.jpg"
@@ -71,8 +94,12 @@ toc: true
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-      <p><strong>Vogal</strong>:<br/>Manuel José Gomes</p>
-    </td>
+  <a href="/assets/images/corpos_gerentes_2026/manueljose.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/manueljose.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Vogal</strong>:<br />Manuel José Gomes</p>
+</td>
   </tr>
 </table>
 
@@ -101,7 +128,11 @@ toc: true
   </tr>
   <tr>
     <td style="vertical-align: bottom;">
-      <p><strong>Vogal</strong>:<br/>José Machado</p>
-    </td>
+  <a href="/assets/images/corpos_gerentes_2026/jose.jpg">
+    <img src="/assets/images/corpos_gerentes_2026/jose.jpg"
+         style="width:200px; height:200px; object-fit:cover; border-radius:50%;" />
+  </a>
+  <p><strong>Vogal</strong>:<br />José Machado</p>
+</td>
   </tr>
 </table>
