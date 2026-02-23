@@ -24,6 +24,7 @@ toc: true
       <span class="fab fa-fw fa-facebook"></span>
     </a>
   </p>
+    </td>
       <td style="vertical-align: bottom; width: 50%;">
   <a href="/assets/images/corpos_gerentes_2026/gil.jpg">
     <img src="/assets/images/corpos_gerentes_2026/gil.jpg"
