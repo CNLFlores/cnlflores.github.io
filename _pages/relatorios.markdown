@@ -10,7 +10,6 @@ header:
   og_image: /assets/images/formosa.jpg
 ---
 
-# 
 
 Nesta página encontram-se disponíveis os Relatórios de Gestão do Clube Naval das Lajes das Flores, organizados por ano civil.
 
