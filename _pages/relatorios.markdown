@@ -20,13 +20,13 @@ Os documentos incluem os Relatórios de Atividades e Relatórios de Contas aprov
 # Ano 2022
 
 ## Relatório de Atividades
-- 📄 [Relatório de Atividades 2022 (PDF)](/assets/relatorios/relatorioatividade2022.pdf)
+- 📄 [Relatório de Atividades 2022](/assets/relatorios/relatorioatividade2022.pdf)
 
 ---
 
 # Ano 2021
 
 ## Relatório de Atividades
-- 📄 [Relatório de Atividades 2021 (PDF)](/assets/relatorios/relatorioatividade2021.pdf)
+- 📄 [Relatório de Atividades 2021](/assets/relatorios/relatorioatividade2021.pdf)
 
 ---
