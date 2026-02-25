@@ -19,6 +19,7 @@ Sede:<br/>
 </address>
 
 - Telefone: +351 292 593 145<br/>
+- Telemóvel: +351 924 708 223<br/>
 - Correio electrónico: [cnlflores@sapo.pt](mailto:cnlflores@sapo.pt)<br/>
 - NIPC: 512025762
 
