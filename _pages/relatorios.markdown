@@ -18,7 +18,6 @@ Os documentos incluem os Relatórios de Atividades e Relatórios de Contas aprov
 
 # Ano 2025
 
-## Relatório de Atividades
 - [Relatório de Atividades 2025](/assets/relatorios/relatorioatividade2025.pdf)
 
 ---
