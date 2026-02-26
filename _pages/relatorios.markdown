@@ -1,3 +1,14 @@
+---
+layout: single
+title: Relatórios de Gestão
+description:
+  Relatórios de Gestão do Clube Naval das Lajes das Flores: Relatórios de Contas Anuais e Relatórios de Atividades.
+permalink: /relatorios/
+toc: true
+header:
+  image: /assets/images/formosa.jpg
+  og_image: /assets/images/formosa.jpg
+---
 Nesta página encontram-se disponíveis os Relatórios de Gestão do Clube Naval das Lajes das Flores, organizados por ano civil.
 
 Os documentos incluem os Relatórios de Atividades e os Relatórios de Contas aprovados em Assembleia Geral.
